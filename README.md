@@ -16,7 +16,7 @@
 - [ ] Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_1.1.png)
 
 ---
 
@@ -33,7 +33,7 @@
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_2.1.png)
 
 ---
 
@@ -51,7 +51,8 @@
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_3.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_3.2.png)
 
 ---
 ## Дополнительные задания со звёздочкой*
@@ -66,7 +67,7 @@
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_4.1.png)
 
 ---
 
@@ -77,5 +78,5 @@
 - [ ] Прикрепите к файлу README.md скриншот дашборда (ID:11074) с поступающими туда данными из Node Exporter
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-04/blob/main/hw-04_5.1.png)
 
